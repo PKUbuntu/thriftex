@@ -1,5 +1,5 @@
-#ifndef _THRIFTEX_CLIENT_XOA_SOCKET_H_
-#define _THRIFTEX_CLIENT_XOA_SOCKET_H_
+#ifndef _THRIFTEX_CLIENT_EX_SOCKET_H_
+#define _THRIFTEX_CLIENT_EX_SOCKET_H_
 
 #include "thriftex/client/endpoint.h"
 
